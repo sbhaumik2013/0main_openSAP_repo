@@ -1,2 +1,3 @@
 # 0main_openSAP_repo
-Main Repository 
+Main Repository
+Open SAP - http://open.sap.com
